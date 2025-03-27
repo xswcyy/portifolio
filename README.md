@@ -12,9 +12,9 @@
 
 <body>
     <header class="container text-center">
-        <img src="img/avatar-perfil.png" alt="avatar da Fernanda" class="rounded-circle" width="150" height="150"
+        <img src="img/avatar-perfil.png" alt="avatar da cibelle" class="rounded-circle" width="150" height="150"
             srcset="">
-        <p class="lead">Eu sou Fernanda_</p>
+        <p class="lead">Eu sou cibelle_</p>
         <h1>Eu ensino Programação</h1>
         <p>Sou Engenheira de Computação e Pedagoga. Ensino pensamento computacional para estudantes do Ensino
             Fundamental e Médio. Ensino sobre pensamento computacional usando HTML, CSS e JavaScript. Veja os projetos
